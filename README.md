@@ -20,13 +20,13 @@
 
 <div align="center">
  
- [cite_start]🔭 I’m currently a **B.Tech CSE Student (8.16 CGPA)** [cite: 5]
+ 🔭 I’m currently a **B.Tech CSE Student (8.16 CGPA)**
  
- [cite_start]💼 Ex-Intern at **Open Health Laboratory System** & **Celebal Technologies** [cite: 12, 17]
+ 💼 Ex-Intern at **Open Health Laboratory System** & **Celebal Technologies**
  
  🌱 I’m currently learning **Advanced AWS & System Design**
 
- [cite_start]💬 Ask me about **React, Node.js, Machine Learning, and Python** [cite: 32, 33]
+💬 Ask me about **React, Node.js, Machine Learning, and Python**
 
 </div>
 
@@ -40,9 +40,9 @@
 * [cite_start]Built secure RESTful APIs and improved operational efficiency, reducing manual scheduling overhead by **40%**[cite: 16].
 
 ### 💻 Full-Stack Developer Intern
-**CodSoft** | [cite_start]*May 2024 - June 2024* [cite: 17, 19]
-* [cite_start]Architected four responsive websites using **HTML, CSS, and JavaScript**[cite: 18, 20].
-* [cite_start]Boosted user engagement by **25%** and decreased page load times by **30%** through optimization[cite: 20, 21].
+**CodSoft** | *May 2024 - June 2024*
+* Architected four responsive websites using **HTML, CSS, and JavaScript**.
+* Boosted user engagement by **25%** and decreased page load times by **30%** through optimization.
 
 <br/>
 <hr/>
@@ -50,9 +50,9 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### 🧠 Interview Prep (AI Virtual Recruiter)
-* [cite_start]**Tech Stack:** Node.js, Express, MongoDB, AWS EC2, AI APIs[cite: 28, 30].
-* [cite_start]Designed a platform with **500+ questions** that analyzes responses with **90% accuracy**[cite: 28, 29].
-* [cite_start]Optimized backend performance to deliver analysis with **sub-500ms latency**[cite: 30].
+* **Tech Stack:** Node.js, Express, MongoDB, AWS EC2, AI APIs.
+* Designed a platform with **500+ questions** that analyzes responses with **90% accuracy**.
+* Optimized backend performance to deliver analysis with **sub-500ms latency**.
 
 ### 🥘 Gourmet Genie (Mood-Food Pairing)
 * [cite_start]**Tech Stack:** Python, KNN, Bert, AWS[cite: 24, 26].
