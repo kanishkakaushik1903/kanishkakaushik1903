@@ -35,12 +35,12 @@
 <h2 align="center">💼 Work Experience</h2>
 
 ### 💻 Summer Intern
-**Open Health Laboratory System** | [cite_start]*May 2025 - July 2025* [cite: 12, 13, 14]
-* [cite_start]Developed a full-stack **Zoom integration** for a health platform using **Node.js** and **React**[cite: 15].
+**Open Health Laboratory System** | *May 2025 - July 2025* 
+* Developed a full-stack **Zoom integration** for a health platform using **Node.js** and **React**[cite: 15].
 * [cite_start]Built secure RESTful APIs and improved operational efficiency, reducing manual scheduling overhead by **40%**[cite: 16].
 
 ### 💻 Full-Stack Developer Intern
-**CodSoft** | *May 2024 - June 2024*
+**Celebal Technologies** | *May 2024 - June 2024*
 * Architected four responsive websites using **HTML, CSS, and JavaScript**.
 * Boosted user engagement by **25%** and decreased page load times by **30%** through optimization.
 
@@ -55,9 +55,9 @@
 * Optimized backend performance to deliver analysis with **sub-500ms latency**.
 
 ### 🥘 Gourmet Genie (Mood-Food Pairing)
-* [cite_start]**Tech Stack:** Python, KNN, Bert, AWS[cite: 24, 26].
-* [cite_start]Engineered an ML model with **92% prediction accuracy** for mood-based food recommendations[cite: 24].
-* [cite_start]Deployed on **AWS** with real-time results and latency under **200ms**[cite: 26].
+* **Tech Stack:** Python, KNN, Bert, AWS[cite: 24, 26].
+*Engineered an ML model with **92% prediction accuracy** for mood-based food recommendations.
+* Deployed on **AWS** with real-time results and latency under **200ms**
 
 <br/>
 <hr/>
@@ -75,10 +75,10 @@
 
 <h2 align="center">📜 Certifications</h2>
 
-* [cite_start]**ServiceNow:** Certified System Administrator & Certified Application Developer [cite: 36]
-* [cite_start]**AWS:** Certified Cloud Practitioner [cite: 36]
-* [cite_start]**Cisco:** Introduction to Networks [cite: 37]
-* [cite_start]**PwC:** Cyber Risk & Regulatory Launchpad [cite: 39]
+* **ServiceNow:** Certified System Administrator & Certified Application Developer 
+* **AWS:** Certified Cloud Practitioner.
+***Cisco:** Introduction to Networks.
+* **PwC:** Cyber Risk & Regulatory Launchpad 
 
 <br/>
 <hr/>
